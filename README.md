@@ -10,12 +10,12 @@ Media Integration: Plays background music during the Knight's Tour visualization
 Welcome and Input Windows: Features a welcoming screen with an introductory image and an input window for specifying board size and starting position.
 
 # Tech Stack and Packages Used🛠️
-Python (Programming Language)
-Tkinter (GUI library)
-PIL (Pillow for image handling)
-pygame (Audio playback)
-ImageTk (Image display in Tkinter)
-ImageSequence (Handling GIFs)
+--Python (Programming Language)
+--Tkinter (GUI library)
+--PIL (Pillow for image handling)
+--pygame (Audio playback)
+--ImageTk (Image display in Tkinter)
+--ImageSequence (Handling GIFs)
 
 # Features
 Animated GIF handling and resizing
