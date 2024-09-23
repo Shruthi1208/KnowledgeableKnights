@@ -8,8 +8,8 @@ Knight's Tour Solver: Uses a heuristic approach to find and visualize the soluti
 Animated GIF: Displays an animated GIF on the main window, resized to fit different screen sizes.
 Media Integration: Plays background music during the Knight's Tour visualization using the pygame library.
 Welcome and Input Windows: Features a welcoming screen with an introductory image and an input window for specifying board size and starting position.
-🛠️
-# Tech Stack and Packages Used
+
+# Tech Stack and Packages Used🛠️
 Python (Programming Language)
 Tkinter (GUI library)
 PIL (Pillow for image handling)
